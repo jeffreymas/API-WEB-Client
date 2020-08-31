@@ -1,0 +1,164 @@
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\csc.exe
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\csc.exe.config
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\csc.rsp
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\csi.exe
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\csi.rsp
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\System.AppContext.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\vbc.exe
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\vbc.exe.config
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\vbc.rsp
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\VBCSCompiler.exe
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Web.dll.config
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Web.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Web.pdb
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Antlr3.Runtime.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Microsoft.AI.Web.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Microsoft.ApplicationInsights.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Newtonsoft.Json.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Web.Helpers.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Web.Mvc.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Web.Optimization.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Web.Razor.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Web.WebPages.Deployment.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Web.WebPages.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Web.WebPages.Razor.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\WebGrease.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Web.Helpers.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Web.Mvc.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Web.Optimization.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Web.Razor.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Web.WebPages.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Web.WebPages.Deployment.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Web.WebPages.Razor.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Antlr3.Runtime.pdb
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Newtonsoft.Json.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Microsoft.ApplicationInsights.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Microsoft.AI.Web.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\obj\Debug\Web.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\obj\Debug\Web.pdb
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\ApplicationInsights.config
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\API.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Serilog.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Net.Http.Formatting.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Web.Http.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Dapper.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\EntityFramework.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Web.Http.WebHost.dll
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\API.pdb
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\API.dll.config
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Serilog.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Net.Http.Formatting.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Web.Http.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\Dapper.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\EntityFramework.xml
+C:\1 File Kanawa\Bootcamp MII\Project\API\Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\ApplicationInsights.config
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\csc.exe
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\csc.exe.config
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\csc.rsp
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\csi.exe
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\csi.rsp
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\System.AppContext.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\vbc.exe
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\vbc.exe.config
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\vbc.rsp
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Web.dll.config
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Web.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Web.pdb
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Antlr3.Runtime.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\API.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Newtonsoft.Json.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Serilog.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Web.Helpers.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Web.Mvc.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Web.Optimization.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Web.Razor.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Web.WebPages.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\WebGrease.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Web.Http.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Dapper.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\EntityFramework.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\API.pdb
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\API.dll.config
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Serilog.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Web.Helpers.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Web.Mvc.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Web.Optimization.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Web.Razor.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Web.WebPages.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Antlr3.Runtime.pdb
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Newtonsoft.Json.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Web.Http.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\Dapper.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\EntityFramework.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\obj\Debug\Web.dll
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\API\Web\obj\Debug\Web.pdb

@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Layout/Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">DATA EXPORT</h4>
+                <h6 class="card-subtitle"> Export data to Copy, CSV</h6>
+                <div class="table-responsive-md">
+                    <table id="department" class="display">
+                        <thead>
+                            <tr>
+                                <th>Department Name</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section ScriptDbAdmin{
+    <script src="~/Scripts/Script/DepartmentScript.js"></script>
+    }

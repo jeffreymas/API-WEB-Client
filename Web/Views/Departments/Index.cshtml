@@ -1,0 +1,80 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/Layout.cshtml";
+}
+
+<!-- Start Page Content -->
+<!-- Page Heading -->
+<h1 class="h3 mb-2 text-gray-800">@ViewBag.Title</h1>
+
+
+<!-- DataTales Example -->
+<div class="card shadow mb-4">
+    
+<!-- Button trigger modal -->
+    <div class="card-header py-3">
+        <div class="d-flex flex-row align-content-between justify-content-between">
+            <h5 class="m-0 font-weight-bold text-primary">Department Table</h5>
+            <div data-toggle="modal" data-target="#myModal" onclick="ClearScreen();">
+                <button type="button" class="btn btn-outline-success btn-circle" data-toggle="modal" data-target="#exampleModal">
+                    <i class="fa fa-plus"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div class="card-body">
+        <div class="table-responsive">
+            <table id="MyTable" class="table table-bordered" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>No</th>
+                        <th>Name</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Create Department</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <input name="Id" class="form-control" type="hidden"
+                               placeholder="Department Id" id="Id" />
+                    </div>
+                    <div class="form-group">
+                        <input name="Name" class="form-control" type="text"
+                               placeholder="Department Name" id="Name" />
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="Insert" onclick="Save();" data-dismiss="modal" class="btn btn-success button button4">Insert</button>
+                <button type="button" id="Update" onclick="Update();" data-dismiss="modal" class="btn btn-success button button4">Edit</button>
+                <button type="button" data-dismiss="modal" class="btn btn-warning button button4">Cancel</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End PAge Content -->
+
+@section ScriptDbAdmin{
+    <script src="~/Scripts/Script/DepartmentScript.js"></script>
+}
+
